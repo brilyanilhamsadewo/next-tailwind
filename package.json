@@ -1,7 +1,9 @@
 {
-  "name": "next-tailwind",
+  "name": "next-tailwind-starter-template",
+  "author": "Brilyan Sadewo",
   "version": "0.1.0",
   "private": true,
+  "github": "https://github.com/brilyanilhamsadewo/next-tailwind",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
